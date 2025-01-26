@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on ...
+-   A custom minecraft launcher!
+- 🌱 I’m currently learning ...
+-   I work with python but I am starting with Java.  
+- 👯 I’m looking to collaborate on ...
+
 <!--
 **NineSided/NineSided** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

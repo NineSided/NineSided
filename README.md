@@ -1,7 +1,9 @@
 ## Hi there 👋
 
+My name is Henry, and I am a python programmer interested in open-source projects!
+
 - 🔭 I’m currently working on ...
-  - A custom minecraft launcher!
+  - A complex minecraft launcher!
 - 🌱 I’m currently learning ...
   - I work with python but I am starting with Java.  
 - 👯 I’m looking to collaborate on ...

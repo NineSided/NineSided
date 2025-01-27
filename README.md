@@ -4,7 +4,6 @@ My name is Henry, and I am a python programmer interested in open-source project
 
 - 🔭 I’m currently working on ...
   - A complex, free, and open source minecraft launcher that intends to have a more modern, less cluttered look to other launchers with little to no monitization.
-  - A lightweight computer statistics analiser to veiw FPS, CPU/GPU usage, and much more without taking up too much of your PC's resources.
 - 🌱 I’m currently learning ...
   - I work with python but I am planning on learning Java some time in the future.
 
